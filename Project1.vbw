@@ -1,0 +1,9 @@
+frmAutenticacao = 104, 104, 922, 546, , 26, 26, 844, 468, C
+MDIMenu = 156, 156, 974, 598, , 130, 130, 948, 572, C
+Conect = 104, 104, 922, 546, 
+frmClientes = 156, 156, 974, 598, , 130, 130, 948, 572, C
+frmCadastrosFornecedores = 156, 156, 990, 598, , 130, 130, 964, 572, C
+frmCadastroDeSetores = 208, 208, 998, 650, , 156, 156, 946, 598, C
+frmCadastroDeUsuario = 208, 208, 998, 650, , 182, 182, 972, 624, C
+frmProdutos = 0, 0, 790, 442, , 208, 208, 998, 650, C
+frmTerminal = 26, 26, 816, 468, Z, 0, 0, 790, 442, C
